@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎯 Preparing for **SDE roles (20+ LPA)** — Focused on DSA + Development
+- 🎯 Preparing for **SDE roles ** — Focused on DSA + Development
 - 🧠 Mastering **Data Structures & Algorithms** (DP, Trees, Graphs)
 - ⚛️ Learning & building using **React + Tailwind + Firebase**
 - 🛠️ Working on full-stack projects using **MERN stack**
